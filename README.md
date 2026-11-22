@@ -49,5 +49,5 @@ Assessment: 4
 Project: SOVIRA – Luxury Jewellery E-Commerce Website
 
 ## Author
-Nidhi Jain
-Roll Number: 2505401010
+Sneha
+Roll Number: 2405301092
